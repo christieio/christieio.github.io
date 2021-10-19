@@ -4,7 +4,7 @@ title: Christie's website
 
 **Welcome to Christie's website**
 
-Here is a link to the online portfolio repositories:
+Link to Online Portfolio Repositories:
 [GEOG5995](https://github.com/christieio/geog5995)
 
 **including:**
