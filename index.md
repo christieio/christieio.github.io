@@ -8,7 +8,7 @@ Here is a link to the online portfolio repositories:
 
 [https://github.com/christieio/geog5995](url)
 
-including:
+**including:**
 
 .py files for practicals1-9
 
